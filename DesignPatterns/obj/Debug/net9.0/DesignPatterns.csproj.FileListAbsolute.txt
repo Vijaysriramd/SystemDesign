@@ -1,0 +1,14 @@
+C:\Learning\SystemDesignLearning\DesignPatterns\obj\Debug\net9.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\SystemDesignLearning\DesignPatterns\obj\Debug\net9.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Learning\SystemDesignLearning\DesignPatterns\obj\Debug\net9.0\DesignPatterns.AssemblyInfo.cs
+C:\Learning\SystemDesignLearning\DesignPatterns\obj\Debug\net9.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Learning\SystemDesignLearning\DesignPatterns\bin\Debug\net9.0\DesignPatterns.exe
+C:\Learning\SystemDesignLearning\DesignPatterns\bin\Debug\net9.0\DesignPatterns.deps.json
+C:\Learning\SystemDesignLearning\DesignPatterns\bin\Debug\net9.0\DesignPatterns.runtimeconfig.json
+C:\Learning\SystemDesignLearning\DesignPatterns\bin\Debug\net9.0\DesignPatterns.dll
+C:\Learning\SystemDesignLearning\DesignPatterns\bin\Debug\net9.0\DesignPatterns.pdb
+C:\Learning\SystemDesignLearning\DesignPatterns\obj\Debug\net9.0\DesignPatterns.dll
+C:\Learning\SystemDesignLearning\DesignPatterns\obj\Debug\net9.0\refint\DesignPatterns.dll
+C:\Learning\SystemDesignLearning\DesignPatterns\obj\Debug\net9.0\DesignPatterns.pdb
+C:\Learning\SystemDesignLearning\DesignPatterns\obj\Debug\net9.0\DesignPatterns.genruntimeconfig.cache
+C:\Learning\SystemDesignLearning\DesignPatterns\obj\Debug\net9.0\ref\DesignPatterns.dll
